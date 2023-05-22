@@ -1,0 +1,68 @@
+{
+  "Applicant": [
+    {
+      "fname": "Mina",
+      "mname": "Kumari",
+      "lname": "Shrestha",
+      "email": "mina123@gmail.com",
+      "technology": [
+        "ReactJs"
+      ],
+      "level": "junior ",
+      "phone": "9856123455",
+      "reference": "ref@gmail.com",
+      "status": "hired",
+      "salary": "25000",
+      "resume": "C:\\fakepath\\resume1.pdf",
+      "id": 2
+    },
+    {
+      "fname": "Ram",
+      "mname": "",
+      "lname": "Sharma",
+      "email": "ram354@gmail.com",
+      "technology": [
+        "DotNet "
+      ],
+      "level": "junior ",
+      "phone": "9865324712",
+      "reference": "ref@gmail.com",
+      "status": "blacklisted",
+      "salary": "70000",
+      "resume": "C:\\fakepath\\resume1.pdf",
+      "id": 3
+    },
+    {
+      "fname": "Sita",
+      "mname": "",
+      "lname": "Hamal",
+      "email": "sita@gmail.com",
+      "technology": [
+        "QA"
+      ],
+      "level": "mid ",
+      "phone": "9856234715",
+      "reference": "reference@gmail.com",
+      "status": "rejected",
+      "salary": "80000",
+      "resume": "C:\\fakepath\\resume1.pdf",
+      "id": 4
+    },
+    {
+      "fname": "Shyam",
+      "mname": "Prasad",
+      "lname": "Shah",
+      "email": "shyam589@gmail.com",
+      "technology": [
+        "ReactJs"
+      ],
+      "level": "senior ",
+      "phone": "9845612251",
+      "reference": "ref@gmail.com",
+      "status": "hired",
+      "salary": "70000",
+      "resume": "C:\\fakepath\\resume1.pdf",
+      "id": 5
+    }
+  ]
+}
